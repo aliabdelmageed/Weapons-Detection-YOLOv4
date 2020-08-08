@@ -11,3 +11,5 @@ YOLOv4 Implemented in Tensorflow 2.0.
 I Converted yolov4-custom.weights to format for tensorflow.
 
 Download yolov4-custom.weights file: https://drive.google.com/file/d/1-bPteE8rV9ObeX4l28A5XWMQjWWtWsBG/view?usp=sharing
+
+Example => https://youtu.be/Dcs_drMG9Rg
